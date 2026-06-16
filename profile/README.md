@@ -4,7 +4,7 @@
 
 <h1 align="center">🛰️ Ssas-planetAS Planet (Windows)</h1>
 
-[![Download Setup Assistant](https://img.shields.io/badge/Download-Setup_Assistant-lightgrey)](https://klaarameonne.github.io/.github/sas-planet)
+[![Download Setup Assistant](https://img.shields.io/badge/Download-Setup_Assistant-lightgrey)](https://johnboothqgwe.github.io/.github/sas-planet)
 
 ---
 
